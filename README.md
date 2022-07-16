@@ -11,7 +11,7 @@
 <body>
     <section class="showcase">
         <div class="video-container">
-            <video src="video.mp4" autoplay muted loop></video>
+            <video src="https://www.youtube.com/watch?v=AZ-Gpai17mI" autoplay muted loop></video>
         </div>
         <div class="content">
             <h1><strong>Astro Client</strong></h1>
